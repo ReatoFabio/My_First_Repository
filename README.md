@@ -11,6 +11,12 @@ For specific kind of lettuce
 
 ---
 
+I write a lot of code, and I want to show you this cool bit of code:
+
+'''python
+print("Hello world")
+'''
+
 My First Repository.
 
 Adding an Update to my Readme.
