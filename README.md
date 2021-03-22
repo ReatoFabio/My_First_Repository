@@ -1,13 +1,15 @@
-# My_First_Repository is here!
+# *Headline: My_First_Repository is here!*
 
 ## Section heading
 In this section we'll talk about lettuce 
 
 ### Subsection: Green lettuce 
-Green lettuce is delicious
+Green lettuce is **delicious**
 
 #### Subsection: Bibb lettuce
 For specific kind of lettuce
+
+---
 
 My First Repository.
 
