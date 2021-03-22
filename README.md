@@ -1,6 +1,6 @@
 # *Headline: My_First_Repository is here!*
 
-![Inter-Coreografia](images/Inter-Coreografia)
+![Inter-Coreografia](images/Inter-Coreografia.jpg)
 
 ## Section heading
 In this section we'll talk about lettuce 
