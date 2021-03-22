@@ -17,6 +17,10 @@ I write a lot of code, and I want to show you this cool bit of code:
 print("Hello world")
 ```
 
+In my favorite song, "C'è solo l'Inter", Prisco says 
+
+> Io non rubo il campionato, ed in Serie B non son mai stato
+
 My First Repository.
 
 Adding an Update to my Readme.
