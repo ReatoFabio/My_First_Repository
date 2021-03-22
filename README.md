@@ -24,7 +24,10 @@ In my favorite song, "C'è solo l'Inter", Prisco says
 My First Repository.
 
 ## Table of Contents
-[code](code)
-[data](Our Data)
-[Our References](references)
+*[Our Code](code)
+
+*[Our Data](data)
+
+*[Our References](references)
+
 
